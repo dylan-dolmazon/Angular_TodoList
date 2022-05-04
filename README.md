@@ -15,5 +15,9 @@
   - `g generate c composant_name`
 - Lancer le server
   - `npm start`
+
+## Architecture d'un projet Angular
+
+![Architecture de l'application](./src/assets/architecture.png)
    
 
